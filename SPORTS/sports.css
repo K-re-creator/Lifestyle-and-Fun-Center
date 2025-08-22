@@ -1,0 +1,17 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:aqua;
+    background-color:black;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: auto;
+    text-align: center;
+    padding:1rem;
+    background-color: #b61d1d;
+    color: #0a0909;
+}
