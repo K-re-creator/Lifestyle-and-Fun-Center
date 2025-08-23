@@ -28,7 +28,7 @@ Usage
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/lifestyle-fun-center.git
+git clone https://github.com/K-re-creator/lifestyle-fun-center.git
 
 
 2. Open index.html in your browser to start exploring
@@ -44,6 +44,6 @@ Contributions are welcome! If you want to add more categories, quizzes, or impro
 
 Contact
 
-Email: your.email@example.com
+Email:koziresy11@gmail.com
 
-GitHub: yourusername
+GitHub: K-re-creator
