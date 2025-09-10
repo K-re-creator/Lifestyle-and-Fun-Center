@@ -9,11 +9,13 @@ body {
 }
 
 header {
+    position: sticky;
     width: auto;
     text-align: center;
     padding:1rem;
     background-color: #b61d1d;
     color: #0a0909;
+    z-index: 1000;
 }
 section {
     width: 80%;
