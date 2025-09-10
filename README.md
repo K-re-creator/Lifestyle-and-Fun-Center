@@ -19,8 +19,6 @@ Technology Stack
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: [add your backend if any, e.g., PHP or Node.js]
-
 Version Control: Git & GitHub
 
 
