@@ -24,3 +24,9 @@ section {
     background-color: #0e0d0d;
     color: #fff;
 }
+.intro {
+    color: rgb(230, 194, 194);
+}
+.intro h4 {
+    color: aqua;
+}
